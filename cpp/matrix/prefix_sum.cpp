@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void calculate_prefix_sum(int matrix[][5])
+void calculate_prefix_sum(int matrix[][COLUMN_SIZE])
 {
     int prefix_sum[ROW_SIZE][COLUMN_SIZE];
 
