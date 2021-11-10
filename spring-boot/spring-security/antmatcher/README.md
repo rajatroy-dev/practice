@@ -53,4 +53,3 @@
 30. Run the project.
 31. Username is **"user"**.
 32. Use password from console.
-33. Logout URL is `http://<your-url>/logout`.
