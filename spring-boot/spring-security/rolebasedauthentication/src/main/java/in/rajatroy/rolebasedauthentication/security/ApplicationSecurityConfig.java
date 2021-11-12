@@ -1,4 +1,6 @@
-package in.rajatroy.applicationusers.security;
+package in.rajatroy.rolebasedauthentication.security;
+
+import static in.rajatroy.rolebasedauthentication.security.ApplicationUserRole.*;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -29,6 +31,8 @@ public class ApplicationSecurityConfig extends WebSecurityConfigurerAdapter {
 			.authorizeRequests()
 			.antMatchers("/home")
 			.permitAll()
+			.antMatchers("/api/**")
+			.hasAnyRole(STUDENT.name())
 			.anyRequest()
 			.authenticated()
 			.and()
@@ -38,13 +42,19 @@ public class ApplicationSecurityConfig extends WebSecurityConfigurerAdapter {
 	@Override
 	@Bean
 	protected UserDetailsService userDetailsService() {
+		UserDetails admin = User.builder()
+				.username("admin")
+				.password(passwordEncoder.encode("password"))
+				.roles(ADMIN.name()) // ROLE_ADMIN
+				.build();
+		
 		UserDetails student = User.builder()
 				.username("student")
 				.password(passwordEncoder.encode("password"))
-				.roles("STUDENT") // ROLE_STUDENT
+				.roles(STUDENT.name()) // ROLE_STUDENT
 				.build();
 		
-		return new InMemoryUserDetailsManager(student);
+		return new InMemoryUserDetailsManager(admin, student);
 	}
 
 }

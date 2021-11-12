@@ -66,14 +66,14 @@
 37. In `ApplicationSecurityConfig` class, override `userDetailsService()` method and add `@Bean` tag. When we use `@Bean` tag for a method in `@Configuration` tagged class, the method is available in the whole applicaiton context (get a fully initialized instance) and can be `@Autowired`.
 38. Add a user in `userDetailsService()` method as follows:
 
-         UserDetails admin = User.builder()
-                                 .username("admin")
+         UserDetails student = User.builder()
+                                 .username("student")
                                  .password(passwordEncoder.encode("password"))
                                  .roles("STUDENT") // ROLE_STUDENT
                                  .build();
 
          return new InMemoryUserDetailsManager(
-            admin
+            student
          );
 
 39. `userDetailsService()` returns `UserDetailsService`. So, when we look at the implementations of `UserDetailsService`, we get `InMemoryUserDetailsManager` class that uses in-memory database for working with users.
