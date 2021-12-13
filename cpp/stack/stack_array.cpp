@@ -12,7 +12,8 @@ class Stack
 public:
     Stack(unsigned capacity)
     {
-        this->size = this->top = 0;
+        this->size = 0;
+        this->top = -1;
         this->capacity = capacity;
         this->array = new int[capacity];
     }
@@ -32,7 +33,7 @@ public:
         if (this->is_full())
             return;
 
-        this->array[(this->top)++] = data;
+        this->array[++(this->top)] = data;
         (this->size)++;
     }
 
@@ -41,7 +42,7 @@ public:
         if (this->is_empty())
             return INT_MIN;
 
-        return this->array[this->top - 1];
+        return this->array[this->top];
     }
 
     int pop()
@@ -50,7 +51,7 @@ public:
             return INT_MIN;
 
         (this->size)--;
-        return (this->array[--(this->top)]);
+        return (this->array[(this->top)--]);
     }
 
     void display_stack()
@@ -68,7 +69,7 @@ int main()
     Stack *stack = new Stack(5);
     cout << "----- Peek -----" << endl;
     cout << stack->peek() << endl;
-    
+
     cout << "----- Push -----" << endl;
     stack->push(14);
     stack->push(22);
