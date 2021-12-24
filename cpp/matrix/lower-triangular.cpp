@@ -7,6 +7,15 @@ class LowerTriangular
     int *array;
     int rows_columns;
 
+    int get_index(int m, int n)
+    {
+        // Row major
+        // return (m * (m - 1)) / 2 + n - 1;
+
+        // Column major
+        return this->rows_columns * (n - 1) - (n - 1) * (n - 2) / 2 + m - n;
+    }
+
 public:
     LowerTriangular(int rows_columns)
     {
@@ -22,20 +31,33 @@ public:
 
     void set(int m, int n, int x)
     {
+        // Row - major
+        /*
         if (n <= m)
         {
-            int index = (m * (m - 1)) / 2 + n - 1;
-            this->array[index] = x;
+            this->array[this->get_index(m, n)] = x;
         }
+        */
+
+        // Column - major
+        if (n <= m)
+            this->array[this->get_index(m, n)] = x;
     }
 
     int get(int m, int n)
     {
+        // Row - major
+        /*
         if (n <= m)
         {
-            int index = (m * (m - 1)) / 2 + n - 1;
-            return this->array[index];
+            return this->array[this->get_index(m, n)];
         }
+        */
+
+        // Column - major
+        if (n <= m)
+            return this->array[this->get_index(m, n)];
+
         return 0;
     }
 
@@ -47,8 +69,7 @@ public:
             {
                 if (n <= m)
                 {
-                    int index = (m * (m - 1)) / 2 + n - 1;
-                    cout << this->array[index] << " ";
+                    cout << this->array[this->get_index(m, n)] << " ";
                 }
                 else
                     cout << "0 ";
