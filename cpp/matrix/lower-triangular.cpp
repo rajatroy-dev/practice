@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// A square matrix is called lower triangular if all the entries above the main diagonal are zero.
 class LowerTriangular
 {
     int *array;
@@ -31,30 +32,12 @@ public:
 
     void set(int m, int n, int x)
     {
-        // Row - major
-        /*
-        if (n <= m)
-        {
-            this->array[this->get_index(m, n)] = x;
-        }
-        */
-
-        // Column - major
         if (n <= m)
             this->array[this->get_index(m, n)] = x;
     }
 
     int get(int m, int n)
     {
-        // Row - major
-        /*
-        if (n <= m)
-        {
-            return this->array[this->get_index(m, n)];
-        }
-        */
-
-        // Column - major
         if (n <= m)
             return this->array[this->get_index(m, n)];
 

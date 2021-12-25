@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// A square matrix is called upper triangular if all the entries below the main diagonal are zero.
 class UpperTriangular
 {
     int *array;
@@ -10,7 +11,10 @@ class UpperTriangular
     int get_index(int m, int n)
     {
         // Row major
-        return this->rows_columns * (m - 1) - (m - 1) * (m - 2) / 2 + n - m;
+        // return this->rows_columns * (m - 1) - (m - 1) * (m - 2) / 2 + n - m;
+
+        // Column major
+        return (n * (n - 1)) / 2 + m - 1;
     }
 
 public:
@@ -28,14 +32,12 @@ public:
 
     void set(int m, int n, int x)
     {
-        // Row major
         if (n >= m)
             this->array[this->get_index(m, n)] = x;
     }
 
     int get(int m, int n)
     {
-        // Row major
         if (n >= m)
             return this->array[this->get_index(m, n)];
 
