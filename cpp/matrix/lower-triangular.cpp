@@ -50,12 +50,7 @@ public:
         {
             for (int n = 1; n <= this->rows_columns; n++)
             {
-                if (n <= m)
-                {
-                    cout << this->array[this->get_index(m, n)] << " ";
-                }
-                else
-                    cout << "0 ";
+                cout << this->get(m, n) << " ";
             }
             cout << endl;
         }

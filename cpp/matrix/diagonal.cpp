@@ -35,14 +35,11 @@ public:
 
     void display()
     {
-        for (int i = 0; i < array_size; i++)
+        for (int i = 1; i <= array_size; i++)
         {
-            for (int j = 0; j < array_size; j++)
+            for (int j = 1; j <= array_size; j++)
             {
-                if (i == j)
-                    cout << this->array[i] << " ";
-                else
-                    cout << "0 ";
+                cout << this->get(i, j) << " ";
             }
             cout << endl;
         }
