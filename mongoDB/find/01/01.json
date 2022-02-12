@@ -1,0 +1,32 @@
+[
+    {
+        "_id": {
+            "$oid": "6176d755cbb8ff71127805df"
+        },
+        "grades": [
+            {
+                "$numberInt": "87"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6176d783cbb8ff71127805e0"
+        },
+        "grades": [
+            {
+                "$numberInt": "90"
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "6176d7a2cbb8ff71127805e1"
+        },
+        "grades": [
+            {
+                "$numberInt": "100"
+            }
+        ]
+    }
+]
