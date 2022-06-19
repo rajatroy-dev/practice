@@ -1,0 +1,80 @@
+[
+    {
+        "_id": {
+            "$oid": "5c8eccc1caa187d17ca6ed16"
+        },
+        "city": "ALPINE",
+        "zip": "35014",
+        "loc": {
+            "y": 33.331165,
+            "x": 86.208934
+        },
+        "pop": 3062,
+        "state": "AL"
+    },
+    {
+        "_id": {
+            "$oid": "5c8eccc1caa187d17ca6ed17"
+        },
+        "city": "BESSEMER",
+        "zip": "35020",
+        "loc": {
+            "y": 33.409002,
+            "x": 86.947547
+        },
+        "pop": 40549,
+        "state": "AL"
+    },
+    {
+        "_id": {
+            "$oid": "5c8eccc1caa187d17ca6ed18"
+        },
+        "city": "ACMAR",
+        "zip": "35004",
+        "loc": {
+            "y": 33.584132,
+            "x": 86.51557
+        },
+        "pop": 6055,
+        "state": "AL"
+    },
+    {
+        "_id": {
+            "$oid": "5c8eccc1caa187d17ca6ed19"
+        },
+        "city": "BAILEYTON",
+        "zip": "35019",
+        "loc": {
+            "y": 34.268298,
+            "x": 86.621299
+        },
+        "pop": 1781,
+        "state": "AL"
+    },
+    {
+        "_id": {
+            "$oid": "5c8eccc1caa187d17ca6ed1a"
+        },
+        "city": "HUEYTOWN",
+        "zip": "35023",
+        "loc": {
+            "y": 33.414625,
+            "x": 86.999607
+        },
+        "pop": 39677,
+        "state": "AL"
+    },
+    {
+        "_id": {
+            "$oid": "5c8eccc1caa187d17ca6ed1b"
+        },
+        "city": "BLOUNTSVILLE",
+        "zip": "35031",
+        "loc": {
+            "y": 34.092937,
+            "x": 86.568628
+        },
+        "pop": 9058,
+        "state": "AL"
+    }
+]
