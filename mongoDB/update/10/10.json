@@ -1,0 +1,2048 @@
+[
+    {
+        "_id": "10317142",
+        "listing_url": "https://www.airbnb.com/rooms/10317142",
+        "name": "Private OceanFront - Bathtub Beach. Spacious House",
+        "summary": "Ocean Living! Secluded Secret Beach! Less than 20 steps to the Ocean! This spacious 4 Bedroom and 4 Bath house has all you need for your family or group. Perfect for Family Vacations and executive retreats. We are in a gated beachfront estate, with lots of space for your activities.",
+        "space": "Private & Open Space! Secluded Secret Beach! This spacious 4 Bedroom and 4 Bath house has all you need for your family or group. Perfect for Family Vacations and executive retreats. We are in a gated beachfront estate, with lots of space for your activities.  Look at the pictures and imagine yourself here! We have your comfort in mind. There is a sun tanning beach deck overlooking the water, a large covered lanai (patio), vaulted ceilings in the living area, huge kitchen with granite counter tops, and lots of sleeping options. We have 4 full baths, 2 with tubs and 2 with showers. There is also an outdoor shower for rinsing off after the beach. The beach is one of the best kept secrets on Oahu! The unique offering of our Beach is the natural reef wall situated about 40 yards off shore.  This reef wall serves as a break wall for incoming waves which creates a very calm shoreline and \"bathtub\" effect for your group to safely enjoy the ocean. Snorkel, Swim, Kayak, Paddleboard  (all provide",
+        "description": "Ocean Living! Secluded Secret Beach! Less than 20 steps to the Ocean! This spacious 4 Bedroom and 4 Bath house has all you need for your family or group. Perfect for Family Vacations and executive retreats. We are in a gated beachfront estate, with lots of space for your activities. Private & Open Space! Secluded Secret Beach! This spacious 4 Bedroom and 4 Bath house has all you need for your family or group. Perfect for Family Vacations and executive retreats. We are in a gated beachfront estate, with lots of space for your activities.  Look at the pictures and imagine yourself here! We have your comfort in mind. There is a sun tanning beach deck overlooking the water, a large covered lanai (patio), vaulted ceilings in the living area, huge kitchen with granite counter tops, and lots of sleeping options. We have 4 full baths, 2 with tubs and 2 with showers. There is also an outdoor shower for rinsing off after the beach. The beach is one of the best kept secrets on Oahu! The unique of",
+        "neighborhood_overview": "The beach is one of the best kept secrets on Oahu!  The unique offering of our Beach is the natural reef wall situated about 40 yards off shore.  This reef wall serves as a break wall for incoming waves which creates a very calm shoreline and \"bathtub\" effect for your group to safely enjoy the ocean. Snorkel, Swim, Kayak, and more!  Stand Up Paddleboards, Kayaks, boogie boards and surfboards are all provided free of charge. During the winter months you'll enjoy seeing whales breaching right from the backyard. We are a 5 minute walk to Hawaii's #1 attraction, the Polynesian Cultural Center, with it's many, shows, performances, cultural activities, and award-winning Luau. Turtle Bay Resort is a 15 minute drive away, where you can enjoy world-class golfing, fine dining, horseback riding, mountain biking, surfing and much more.  The iconic North Shore is a 20-minute drive away, where in winter months you can observe professional surfing at its finest. The small yet cultural town of Laie ha",
+        "notes": "",
+        "transit": "",
+        "access": "",
+        "interaction": "I live in another separate house within the gated estate - will be here to welcome you and answer any questions you may have along the way.",
+        "house_rules": "No Pets No Smoking",
+        "property_type": "House",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "3",
+        "maximum_nights": "1125",
+        "cancellation_policy": "strict_14_with_grace_period",
+        "last_scraped": {
+            "$date": {
+                "$numberLong": "1551848400000"
+            }
+        },
+        "calendar_last_scraped": {
+            "$date": {
+                "$numberLong": "1551848400000"
+            }
+        },
+        "first_review": {
+            "$date": {
+                "$numberLong": "1453611600000"
+            }
+        },
+        "last_review": {
+            "$date": {
+                "$numberLong": "1550552400000"
+            }
+        },
+        "accommodates": {
+            "$numberInt": "14"
+        },
+        "bedrooms": {
+            "$numberInt": "4"
+        },
+        "beds": {
+            "$numberInt": "10"
+        },
+        "number_of_reviews": {
+            "$numberInt": "32"
+        },
+        "bathrooms": {
+            "$numberDecimal": "4.0"
+        },
+        "amenities": [
+            "TV",
+            "Cable TV",
+            "Internet",
+            "Wifi",
+            "Wheelchair accessible",
+            "Kitchen",
+            "Free parking on premises",
+            "Family/kid friendly",
+            "Suitable for events",
+            "Washer",
+            "Dryer",
+            "Smoke detector",
+            "Essentials",
+            "24-hour check-in",
+            "Hair dryer",
+            "Iron",
+            "Laptop friendly workspace",
+            "Beachfront"
+        ],
+        "price": {
+            "$numberDecimal": "795.00"
+        },
+        "security_deposit": {
+            "$numberDecimal": "1000.00"
+        },
+        "cleaning_fee": {
+            "$numberDecimal": "345.00"
+        },
+        "extra_people": {
+            "$numberDecimal": "0.00"
+        },
+        "guests_included": {
+            "$numberDecimal": "1"
+        },
+        "images": {
+            "thumbnail_url": "",
+            "medium_url": "",
+            "picture_url": "https://a0.muscache.com/im/pictures/71635659-be9e-4860-90ed-312f37e641c2.jpg?aki_policy=large",
+            "xl_picture_url": ""
+        },
+        "host": {
+            "host_id": "53086419",
+            "host_url": "https://www.airbnb.com/users/show/53086419",
+            "host_name": "Noah",
+            "host_location": "Laie, Hawaii, United States",
+            "host_about": "",
+            "host_response_time": "within a day",
+            "host_thumbnail_url": "https://a0.muscache.com/im/pictures/d93c44f5-2b60-4251-a90b-fb71d66e7946.jpg?aki_policy=profile_small",
+            "host_picture_url": "https://a0.muscache.com/im/pictures/d93c44f5-2b60-4251-a90b-fb71d66e7946.jpg?aki_policy=profile_x_medium",
+            "host_neighbourhood": "Ko'olauloa",
+            "host_response_rate": {
+                "$numberInt": "50"
+            },
+            "host_is_superhost": false,
+            "host_has_profile_pic": true,
+            "host_identity_verified": false,
+            "host_listings_count": {
+                "$numberInt": "1"
+            },
+            "host_total_listings_count": {
+                "$numberInt": "1"
+            },
+            "host_verifications": [
+                "email",
+                "phone",
+                "reviews",
+                "jumio",
+                "offline_government_id",
+                "government_id"
+            ]
+        },
+        "address": {
+            "street": "Laie, HI, United States",
+            "suburb": "Ko'olauloa",
+            "government_area": "Koolauloa",
+            "market": "Oahu",
+            "country": "United States",
+            "country_code": "US",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-157.91952"
+                    },
+                    {
+                        "$numberDouble": "21.63549"
+                    }
+                ],
+                "is_location_exact": true
+            }
+        },
+        "availability": {
+            "availability_30": {
+                "$numberInt": "10"
+            },
+            "availability_60": {
+                "$numberInt": "17"
+            },
+            "availability_90": {
+                "$numberInt": "26"
+            },
+            "availability_365": {
+                "$numberInt": "229"
+            }
+        },
+        "review_scores": {
+            "review_scores_accuracy": {
+                "$numberInt": "10"
+            },
+            "review_scores_cleanliness": {
+                "$numberInt": "9"
+            },
+            "review_scores_checkin": {
+                "$numberInt": "10"
+            },
+            "review_scores_communication": {
+                "$numberInt": "10"
+            },
+            "review_scores_location": {
+                "$numberInt": "10"
+            },
+            "review_scores_value": {
+                "$numberInt": "10"
+            },
+            "review_scores_rating": {
+                "$numberInt": "94"
+            }
+        },
+        "reviews": [
+            {
+                "_id": "60556444",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1453611600000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "34546698",
+                "reviewer_name": "Rich",
+                "comments": "The host canceled this reservation 70 days before arrival. This is an automated posting."
+            },
+            {
+                "_id": "60663921",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1453698000000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "15231050",
+                "reviewer_name": "Chad",
+                "comments": "Noah was an excellent host!! The place was absolutely amazing!! You definitely won't be disappointed... The ocean in front of the property was perfect for the kids to swim, fishing, diving, snorkeling, paddle boarding.. Etc.. Everything was so convenient grocery stores, places to eat and getting in and out of the property was a breeze.  It's a very quiet area where you can relax and just get away from it all. We will most definitely consider staying here again!! "
+            },
+            {
+                "_id": "62979323",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1455858000000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "11361243",
+                "reviewer_name": "Corinne",
+                "comments": "This spot couldn't have been more perfect. We had a big group and there was plenty of space, enough bathrooms, tons of space to cook and all the tools/ amenities we needed to do everything we wanted. The private beach was fantastic. So close to the Polynesian center and a good in-between spot for tons of hikes, beaches, shops and food. \r\n\r\nNoah was incredibly helpful, responsive and discreet so we never felt like didn't have the privacy we needed in our own little get away!"
+            },
+            {
+                "_id": "71552247",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1461643200000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "35253808",
+                "reviewer_name": "Stefanée",
+                "comments": "Noah was a fantastic host and the property is just gorgeous. The entire island is out of this world beautiful, but this property's secluded location and private beach make the ocean views that much more special and breathtaking. I booked the home as accommodation for my wedding party guests (my husband and I had a small, beach wedding in the North Shore) and it was perfect. We had everything we needed and the extra beds in each room saved me headache and money - very efficient! Noah was also quite accommodating when I told him our original plan of having the ceremony on the private beach and outside reception in the backyard (which we didn't wind up doing) - he was totally cool with it. Overall, a wonderful Hawaii experience in a lovely beach home where I felt at home and completely relaxed. "
+            },
+            {
+                "_id": "87778491",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1469073600000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "27261949",
+                "reviewer_name": "Ernie",
+                "comments": "We stayed at Noah's house on the beach for 4 nights in July 2016. We had a wonderful experience, and Noah was extremely kind, generous, and always available. We had a few steps break on our walkway to the beach, and Noah took care of it right away."
+            },
+            {
+                "_id": "89303202",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1469592000000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "41010213",
+                "reviewer_name": "Sandra",
+                "comments": "We had a phenomenal vacation at Noah's place. The home is beautifully kept, and Noah was on site for any questions or concerns. The home was large enough for 9 of us and we never felt cramped or in each other's way. The Polynesian Center is 2 minutes away, and there is so much to do there. Northshore offers a very local Hawaii feeling, and was so much fun to explore! Thank you Noah and family for being gracious and attentive hosts! We would definitely go back our beautiful private beach!"
+            },
+            {
+                "_id": "92204067",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1470542400000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "53458247",
+                "reviewer_name": "Ngao",
+                "comments": "Everything you think about a Hawaii vacation home, this one is it! Noah was excellent at getting the amenities we needed! August, it was hot and humid, but all the fans that were provided kept us cool. At night it was even more cool with the wonderful ocean breeze. We love the that we had a beach right there. My kids played in the sand the whole time! we went swimming when we can, the tide was higher in the afternoon. There was some much room for everyone to spread out and relax! There were local supermarket close by too, so convenient!! Thank you again Noah!"
+            },
+            {
+                "_id": "93234352",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1470974400000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "87631546",
+                "reviewer_name": "Min",
+                "comments": "房东很热情,房子环境很好,面临太平洋,有私家小沙滩,孩子们玩的很开心,周边有超市,演绎中心,沿途的风景优美,很愉快的一次体验"
+            },
+            {
+                "_id": "99716192",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1473048000000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "50850632",
+                "reviewer_name": "Joel",
+                "comments": "호스트인 Mr. Noah는 상당히 친절하고 따뜻한 사람이었습니다. 가족이나 친구들끼리 온전한 쉼을 얻고자 한다면 이 집은 최상입니다. 걸어서 5분거리에 Polynasian Culural Center가 있고 바로 집앞에는 아름다운 태평양이 펼쳐져 있습니다. 또한 15분 북쪽으로 가면 Shrimp Food Truck이 있고 10분거리에 9홀 골프장이 위치해 있습니다. 비록 전동카트가 없어 걸어야 하지만 바닷가를 배경으로 골프를 치는 환상적인 경험을 하실 수 있습니다. 가격또한 한사람당 골프클럽세트까지 $32.50으로 상당히 저렴합니다. 하지만 한인마켓에서 장을 보거나 Costco 또는 쇼핑을 하기 원하신다면 하루 날을 잡아야 할 것입니다. 이유는 그곳들까지 대략 1시간남짓 걸리기 때문입니다. 그래서 며칠간 도시와 떨어져 쉼을 갖기 원하신다면 정말 좋은곳입니다. 현대적인 도시의 삶에서 벗어나 아름다운 노아의 집에서 한번 머물러 보시길 추천합니다."
+            },
+            {
+                "_id": "106729567",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1475812800000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "64214580",
+                "reviewer_name": "Christian",
+                "comments": "An excellent location. Plenty of privacy yet close to restaurants & entertainment.  Note:  No AC.  Some minor maintenance issues that surely will be quickly resolved. Plenty of space to accommodate our group of 8."
+            },
+            {
+                "_id": "107999186",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1476331200000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "33084889",
+                "reviewer_name": "Chris",
+                "comments": "This vacation was fantastic and it will always be some of the most incredible memories for our family. The property was just as described in Noah's listing.  The ocean access and view was phenomenal. It was everything we could have asked for.  The house was stocked very well with all the necessities.  I would definitely stay here again no matter what I planned to do on Oahu.  It was very easy to get south or north from here. I would definitely recommend this home to everyone."
+            },
+            {
+                "_id": "109171323",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1476849600000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "67360628",
+                "reviewer_name": "Chelsea",
+                "comments": "What a loving location. Can't say enough about the view and location. Noah was so easy to deal with. House was wonderful and just as decribed. would recommend to friends and family."
+            },
+            {
+                "_id": "110417757",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1477454400000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "55994796",
+                "reviewer_name": "David Wooyong",
+                "comments": "Everything was perfect for us!"
+            },
+            {
+                "_id": "112224227",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1478318400000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "43196488",
+                "reviewer_name": "John",
+                "comments": "Very nice place for a large family get together. We had three generations. The property is very family friendly although the beach was less sand than the photos (probably due to the fall/winter season). The beach dand house are very private. The four bathrooms with showers were very useful after swims and hikes with so many needing to shower. Hot water is plentiful."
+            },
+            {
+                "_id": "112920265",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1478581200000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "10841831",
+                "reviewer_name": "Natalie",
+                "comments": "My family and I had such a lovely stay here. The house is spacious and family oriented, and was clean and neat. We woke up to the sound of the ocean every morning and beautiful views. We had all the amenities we needed and Noah was able to answer any additional queries we had throughout the stay. Being winter we missed out on beach access as the tide was in, but it didn't stop us taking advantage of the private water access and sitting out on the steps. There were food trucks and cafes and restaurants nearby, as well as grocery stores within a short driving distance. The rustic feel of Laie is so much more pleasant than the hustle and bustle of Waikiki. "
+            },
+            {
+                "_id": "168958665",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1499659200000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "100785764",
+                "reviewer_name": "James",
+                "comments": "Stayed for 4 nights during the summer.\n\nPositives:\n-Great location\n-Master bedroom very spacious\n-Enough fans and AC to generally keep things a good temperature\n-Good communication with host\n-Amazing views\n-Great mudroom with washer/dryer and outdoor shower.  Perfect for returning from the beach.\n\nNegatives:\n-Floors were not clean, feet got super dirty even indoors.\n-Lots of flies in the kitchen.  Not sure if we just got unlucky of if this is constant.\n-No sand on the beach.  Water access involves some slippery stones."
+            },
+            {
+                "_id": "179558464",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1502078400000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "17799858",
+                "reviewer_name": "Karen",
+                "comments": "Lovely home! Awesome ocean front property with great sunrises and moonrises. Plenty of space - large kitchen, large great room, covered lanai, and huge lawn. Nice getaway from the hustle and bustle of town."
+            },
+            {
+                "_id": "189766782",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1504324800000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "7647122",
+                "reviewer_name": "Ken & Tammy",
+                "comments": "House has beautiful view and worked great for our large family with lots of little kids. Safe (gated and off the road) and very quiet. Large, grassed yard for playing. Noah was very responsive and helpful from the get go. Highly recommend this home in a lovely part of Oahu."
+            },
+            {
+                "_id": "195306986",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1505707200000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "52733053",
+                "reviewer_name": "Sharon",
+                "comments": "This home is ideal for a large family/group.  Lots of space for kids to run around in the yard.  Gorgeous views and everything you need to relax and enjoy the beach.  The home is very spacious and we absolutely loved the covered lanai.  We spent all of our time outdoors .. it was heaven."
+            },
+            {
+                "_id": "204159108",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1508126400000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "110461108",
+                "reviewer_name": "Alan",
+                "comments": "Great, roomy beach home on the water.  Beach area behind home has no sandy area, but rocks.  Huge home, lots of space, great family home.  North shore, close to culture center which has a must see Hawaii Lulu and show.  Noah is in the front house for any help needed.  I highly recommend the house, lots of privacy and room....    Thanks Noah."
+            },
+            {
+                "_id": "213731427",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1511326800000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "81753642",
+                "reviewer_name": "Laura",
+                "comments": "Great private house. Close to shops and restaurants. Gorgeous ocean views and sunrises every morning. A great, open space for a large family."
+            },
+            {
+                "_id": "214892415",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1511672400000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "65990620",
+                "reviewer_name": "Jannet",
+                "comments": "The home is a little on the older side. We had a hard time getting hot water to take a shower. There is also very few cable channels. Other than these two issues our stay was great. The house is really big. The parking space and yard are amazing. Great location."
+            },
+            {
+                "_id": "218445242",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1513054800000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "35555551",
+                "reviewer_name": "Maura",
+                "comments": "Great views and location!    Spacious home with a responsive host!"
+            },
+            {
+                "_id": "242716300",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1520827200000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "91384845",
+                "reviewer_name": "Jennifer",
+                "comments": "This beach house is an absolute gem and some of the photos just don't do it justice. From the moment you walk into the front door, you have stunning views of the ocean. We enjoyed breathtaking sunrises from the master bedroom and outdoor sunbathing pad almost every day. We chose this location for our intimate wedding ceremony and casual dinner for about 45 friends and family. We originally planned both the ceremony and dinner outdoors, but due to the unusually windy weather, we decided to host the dinner in the spacious living room instead, which worked out great. Noah was very responsive and helpful before we arrived in Hawaii, as well as throughout the wedding weekend. Unlike previous reviewers, we had no issues with the hot water, the floors were clean when we arrived, and flies only became an issue when we left the doors open for long periods of time. There wasn't any sand on the beach in early March, but the water was calm and protected - perfect for wading around with water shoes. The house was fully stocked with amenities, and in a fantastic location if you're looking to get away from the hustle and bustle of Waikiki and Honolulu. I would highly recommend staying at Noah's beach house, and hope to find another reason to stay again in the future. Thank you Noah for making our weekend so memorable."
+            },
+            {
+                "_id": "250631591",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1522900800000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "29833776",
+                "reviewer_name": "Sophia",
+                "comments": "We loved staying at Noah’s place! It was the perfect spot for our multi-family vacation. We had 6 adults, two teenagers and 4 kids ages 4 - 9. The water right in front of the house is the perfect spot for snorkeling and we saw lots of fish and a seal that came right by us a few times! When the tide is out the water is very calm. Around the corner is Pounders beach which has some decent waves for boogie boarding. It is a 5 minute walk to the Polynesian Cultural Center and about an hour from Honolulu. If you want a more slow paced vacation away from crowds then this is the perfect spot. We would absolutely stay here again in a heartbeat. Our whole group loved it."
+            },
+            {
+                "_id": "252954957",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1523505600000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "97697203",
+                "reviewer_name": "Dave",
+                "comments": "This is a great house.  We stayed with a group of 8 teenagers and this house was up to the task.  It has four bedrooms and four full baths.  The hot water was able to keep up with three showers going at the same time and the kitchen was plenty big enough for all.  The host was extremely easy to work with and had pre-stocked the house with pots/pans, paper towels, coffee, toilet paper, etc.\n\nThe best part about this house was the location, being right on the coast.  There is a nice back patio, and another concrete slab by the water with steps leading down to the beach.  The master bedroom has windows facing the ocean, so you can open the windows and hear the surf all night and wake up to the sunrise.\n\nI would most definitely rent this house again, and certainly from this renter."
+            },
+            {
+                "_id": "262124754",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1525665600000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "2156668",
+                "reviewer_name": "Nicole",
+                "comments": "Noah was very accommodating and the views are to die for. We had our own personal beach and swimming was perfect during low tide. Couldn't have asked for a better house or host! Highly recommend!"
+            },
+            {
+                "_id": "291952648",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1531713600000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "196831360",
+                "reviewer_name": "Jenna",
+                "comments": "This place is awesome!!! The pictures aren’t even close!! For us locals, this staycation was way way better than stay in the concrete jungle!!! "
+            },
+            {
+                "_id": "296897652",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1532577600000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "106464987",
+                "reviewer_name": "Joo Tae",
+                "comments": "전체적으로 아주 좋은 숙소입니다. 편안하게 집에서 쉬면서 언제든 바다에 뛰어들수 있는 점이 최대의 장점이죠. 집앞에 바로 아담하고 예쁜 모래 해변이 있고, 각종 물놀이 기구가 있어 더욱 편리합니다. 카약, 각종 보드(서핑, 패들, 부기), 스노클링 등을 자유롭게 즐길수 있습니다. 지금시즌에는 많은 모래도 아주 곱게 펼쳐져 있어요. \n걸어서 폴리네시안문화센터에 갈수 있고, 차로 5분거리에 식료품점(푸드랜드)이 있어 장보기에도 불편함이 없습니다. 오아후섬 북쪽지역(노스쇼, 할레이바 등)을 한가롭게 두루 다니기에도 좋은 거리입니다. 가까운 카후쿠의  새우트럭에서 점심도 좋고요. 오히려 할레이바 새우트럭 보다 더 편안하게 먹을 수 있습니다. \n주방이 아주 잘 갖춰져 있어서 집에서 식사준비해서 먹기 편리합니다. 오히려 주위에 유명한 식당이 있는 게 아니어서 집에서 어느정도는 식사를 해결하는 것이 좋습니다. \n집 주인인 노아도 바로 옆에 거주하고 있어 필요사항 부탁할 경우 바로 해결해 줄 수 있습니다. 별로 그럴일이 없긴 하지만...\n바로 바닷가 집이라 어쩔수 없이 전체적으로 습도가 많은 편이어서 집안은 좀 축축하지만, 지내기에는 어렵지 않습니다. 그리고 네개의 방(1층 한개, 2층 세개)중에서 3개의 방에 에어컨이 새로 설치되어 있어서 어느정도 쾌적하게 지낼수 있습니다. \n다시한번 이야기하지만, 모래사장이 있는 바로 바닷가 집이고, 각종 물놀이를 자유롭게 할수 있다는 것이 이 집의 최대 장점이라 하겠습니다. \n\nWe had a great time. Thanks a lot, Noah!"
+            },
+            {
+                "_id": "342929317",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1540785600000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "41914388",
+                "reviewer_name": "Phoebe",
+                "comments": "Our week at Noah’s “blue house” was a dream! Our party consisted of 9 adults and 7 kids and our stay was perfectly comfortable. With 4 bedrooms and 4 bathrooms we all felt like we had enough personal space and the large kitchen and living area was such an added bonus for so many bodies! The house has an enormous side/backyard with steps that lead to the perfect little private beach. We honestly had a hard time ever wanting to leave the house! The house came equipped with kayaks, canoes, boogie boards, and plenty of toys to keep us entertained! Noah and his family were beyond hospitable. They went out of their way to make sure everything was going smoothly and truly made us feel so welcome! We hope we get to come back soon!!!"
+            },
+            {
+                "_id": "406482994",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1548738000000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "217678741",
+                "reviewer_name": "Tammy",
+                "comments": "There are so many wonderful things we can say about Noah & the Laie house on bathtub beach. The location is perfect for families. The yard, the lanai, the living room & kitchen all have ample space for everyone to spread out. The beach location is amazing and private; the reef & tides making it fun & safe for all ages.  Noah provides everything you could possibly need to make it the perfect Hawaiian vacation.  Four bathrooms & five showers make it the perfect spot for a girls getaway as well. We will certainly be planning additional adventures here in the future- highly recommended!"
+            },
+            {
+                "_id": "414467972",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1550552400000"
+                    }
+                },
+                "listing_id": "10317142",
+                "reviewer_id": "155614396",
+                "reviewer_name": "Mary Ann",
+                "comments": "Great place, excellent location!"
+            }
+        ]
+    },
+    {
+        "_id": "12509339",
+        "listing_url": "https://www.airbnb.com/rooms/12509339",
+        "name": "Barra da Tijuca beach house",
+        "summary": "Wonderful colonial style duplex house and a loft in the back, less than 5 minutes from the best part of the Barra da Tijuca beach. 24h security. Total area of 700 m2. Swimming pool, BBQ, games room, garden. Quiet location.",
+        "space": "",
+        "description": "Wonderful colonial style duplex house and a loft in the back, less than 5 minutes from the best part of the Barra da Tijuca beach. 24h security. Total area of 700 m2. Swimming pool, BBQ, games room, garden. Quiet location.",
+        "neighborhood_overview": "",
+        "notes": "",
+        "transit": "",
+        "access": "",
+        "interaction": "",
+        "house_rules": "",
+        "property_type": "House",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "1",
+        "maximum_nights": "1125",
+        "cancellation_policy": "flexible",
+        "last_scraped": {
+            "$date": {
+                "$numberLong": "1549861200000"
+            }
+        },
+        "calendar_last_scraped": {
+            "$date": {
+                "$numberLong": "1549861200000"
+            }
+        },
+        "accommodates": {
+            "$numberInt": "16"
+        },
+        "bedrooms": {
+            "$numberInt": "9"
+        },
+        "beds": {
+            "$numberInt": "15"
+        },
+        "number_of_reviews": {
+            "$numberInt": "0"
+        },
+        "bathrooms": {
+            "$numberDecimal": "7.0"
+        },
+        "amenities": [
+            "Cable TV",
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Pool",
+            "Kitchen",
+            "Free parking on premises",
+            "Smoking allowed",
+            "Hot tub",
+            "Heating",
+            "Family/kid friendly",
+            "Suitable for events",
+            "Washer",
+            "Fire extinguisher",
+            "Essentials",
+            "Hangers",
+            "Iron",
+            "Laptop friendly workspace"
+        ],
+        "price": {
+            "$numberDecimal": "5595.00"
+        },
+        "extra_people": {
+            "$numberDecimal": "0.00"
+        },
+        "guests_included": {
+            "$numberDecimal": "1"
+        },
+        "images": {
+            "thumbnail_url": "",
+            "medium_url": "",
+            "picture_url": "https://a0.muscache.com/im/pictures/b2ad98f5-e73f-4a1b-907f-1b2c94648128.jpg?aki_policy=large",
+            "xl_picture_url": ""
+        },
+        "host": {
+            "host_id": "67742378",
+            "host_url": "https://www.airbnb.com/users/show/67742378",
+            "host_name": "Fernando",
+            "host_location": "BR",
+            "host_about": "",
+            "host_thumbnail_url": "https://a0.muscache.com/im/pictures/2d790500-0933-49ad-a100-e2773fc0e360.jpg?aki_policy=profile_small",
+            "host_picture_url": "https://a0.muscache.com/im/pictures/2d790500-0933-49ad-a100-e2773fc0e360.jpg?aki_policy=profile_x_medium",
+            "host_neighbourhood": "",
+            "host_is_superhost": false,
+            "host_has_profile_pic": true,
+            "host_identity_verified": false,
+            "host_listings_count": {
+                "$numberInt": "1"
+            },
+            "host_total_listings_count": {
+                "$numberInt": "1"
+            },
+            "host_verifications": [
+                "email",
+                "phone"
+            ]
+        },
+        "address": {
+            "street": "Rio de Janeiro, Rio de Janeiro, Brazil",
+            "suburb": "Barra da Tijuca",
+            "government_area": "Barra da Tijuca",
+            "market": "Rio De Janeiro",
+            "country": "Brazil",
+            "country_code": "BR",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-43.32235641855684"
+                    },
+                    {
+                        "$numberDouble": "-23.008260973065372"
+                    }
+                ],
+                "is_location_exact": false
+            }
+        },
+        "availability": {
+            "availability_30": {
+                "$numberInt": "0"
+            },
+            "availability_60": {
+                "$numberInt": "0"
+            },
+            "availability_90": {
+                "$numberInt": "0"
+            },
+            "availability_365": {
+                "$numberInt": "0"
+            }
+        },
+        "review_scores": {},
+        "reviews": []
+    },
+    {
+        "_id": "12591225",
+        "listing_url": "https://www.airbnb.com/rooms/12591225",
+        "name": "Cosy penthouse close to Barra beach",
+        "summary": "This explendid penthouse has 4.400 ft2, with 5 cosy bedrooms, sauna, pool, parking for 6 cars and is located at one of the best points of the Barra da Tijuca beach, with the best restaurants and bars of the neighborhood (subway station 15 minutes walk)",
+        "space": "This penthouse is located at one of the best beach points of Barra, just crossing one street. It is a large and cosy place where you can rest with your family and walk for several delightful places, such as restaurants, bars and night clubs.",
+        "description": "This explendid penthouse has 4.400 ft2, with 5 cosy bedrooms, sauna, pool, parking for 6 cars and is located at one of the best points of the Barra da Tijuca beach, with the best restaurants and bars of the neighborhood (subway station 15 minutes walk) This penthouse is located at one of the best beach points of Barra, just crossing one street. It is a large and cosy place where you can rest with your family and walk for several delightful places, such as restaurants, bars and night clubs. Whenever you need help or suggestions for a city tour, never mind in calling me. Barra is the newest and well designed neighborhood of Rio, where you find wonderful restaurants, bars, night clubs, theaters and cinema, everything just walking distance from the beach. Subway station (15 min. walking distance) The penthouse is located in a small and brand new family building, with only 5 other apartments. No loud noises or parties are permitted, specially between 8 AM and 10 PM, in order to not disturb ",
+        "neighborhood_overview": "Barra is the newest and well designed neighborhood of Rio, where you find wonderful restaurants, bars, night clubs, theaters and cinema, everything just walking distance from the beach.",
+        "notes": "The penthouse is located in a small and brand new family building, with only 5 other apartments. No loud noises or parties are permitted, specially between 8 AM and 10 PM, in order to not disturb the neighbors.",
+        "transit": "Subway station (15 min. walking distance)",
+        "access": "",
+        "interaction": "Whenever you need help or suggestions for a city tour, never mind in calling me.",
+        "house_rules": "No loud noises can be created, specially after 10 PM, in order to not disturb neighbors.",
+        "property_type": "Condominium",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "1",
+        "maximum_nights": "1125",
+        "cancellation_policy": "strict_14_with_grace_period",
+        "last_scraped": {
+            "$date": {
+                "$numberLong": "1549861200000"
+            }
+        },
+        "calendar_last_scraped": {
+            "$date": {
+                "$numberLong": "1549861200000"
+            }
+        },
+        "first_review": {
+            "$date": {
+                "$numberLong": "1488258000000"
+            }
+        },
+        "last_review": {
+            "$date": {
+                "$numberLong": "1488258000000"
+            }
+        },
+        "accommodates": {
+            "$numberInt": "10"
+        },
+        "bedrooms": {
+            "$numberInt": "5"
+        },
+        "beds": {
+            "$numberInt": "10"
+        },
+        "number_of_reviews": {
+            "$numberInt": "1"
+        },
+        "bathrooms": {
+            "$numberDecimal": "8.0"
+        },
+        "amenities": [
+            "TV",
+            "Cable TV",
+            "Wifi",
+            "Air conditioning",
+            "Wheelchair accessible",
+            "Pool",
+            "Kitchen",
+            "Free parking on premises",
+            "Doorman",
+            "Elevator",
+            "Buzzer/wireless intercom",
+            "Family/kid friendly",
+            "Washer",
+            "Fire extinguisher",
+            "Essentials",
+            "Shampoo",
+            "Hangers",
+            "Hair dryer",
+            "Iron",
+            "Private entrance",
+            "Hot water",
+            "Luggage dropoff allowed",
+            "Long term stays allowed",
+            "Host greets you"
+        ],
+        "price": {
+            "$numberDecimal": "3544.00"
+        },
+        "cleaning_fee": {
+            "$numberDecimal": "373.00"
+        },
+        "extra_people": {
+            "$numberDecimal": "560.00"
+        },
+        "guests_included": {
+            "$numberDecimal": "8"
+        },
+        "images": {
+            "thumbnail_url": "",
+            "medium_url": "",
+            "picture_url": "https://a0.muscache.com/im/pictures/0f37d4ec-b6e9-4425-9f7a-0aeb2e6897c6.jpg?aki_policy=large",
+            "xl_picture_url": ""
+        },
+        "host": {
+            "host_id": "47893384",
+            "host_url": "https://www.airbnb.com/users/show/47893384",
+            "host_name": "Leo",
+            "host_location": "BR",
+            "host_about": "",
+            "host_response_time": "within a day",
+            "host_thumbnail_url": "https://a0.muscache.com/im/pictures/4eea0e3c-1026-4556-984f-7229eec670d4.jpg?aki_policy=profile_small",
+            "host_picture_url": "https://a0.muscache.com/im/pictures/4eea0e3c-1026-4556-984f-7229eec670d4.jpg?aki_policy=profile_x_medium",
+            "host_neighbourhood": "",
+            "host_response_rate": {
+                "$numberInt": "100"
+            },
+            "host_is_superhost": false,
+            "host_has_profile_pic": true,
+            "host_identity_verified": false,
+            "host_listings_count": {
+                "$numberInt": "1"
+            },
+            "host_total_listings_count": {
+                "$numberInt": "1"
+            },
+            "host_verifications": [
+                "email",
+                "phone",
+                "reviews",
+                "work_email"
+            ]
+        },
+        "address": {
+            "street": "Rio de Janeiro, Rio de Janeiro, Brazil",
+            "suburb": "Barra da Tijuca",
+            "government_area": "Barra da Tijuca",
+            "market": "Rio De Janeiro",
+            "country": "Brazil",
+            "country_code": "BR",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-43.32005231206098"
+                    },
+                    {
+                        "$numberDouble": "-23.010668604567265"
+                    }
+                ],
+                "is_location_exact": false
+            }
+        },
+        "availability": {
+            "availability_30": {
+                "$numberInt": "0"
+            },
+            "availability_60": {
+                "$numberInt": "0"
+            },
+            "availability_90": {
+                "$numberInt": "0"
+            },
+            "availability_365": {
+                "$numberInt": "163"
+            }
+        },
+        "review_scores": {
+            "review_scores_accuracy": {
+                "$numberInt": "8"
+            },
+            "review_scores_cleanliness": {
+                "$numberInt": "10"
+            },
+            "review_scores_checkin": {
+                "$numberInt": "10"
+            },
+            "review_scores_communication": {
+                "$numberInt": "10"
+            },
+            "review_scores_location": {
+                "$numberInt": "10"
+            },
+            "review_scores_value": {
+                "$numberInt": "10"
+            },
+            "review_scores_rating": {
+                "$numberInt": "80"
+            }
+        },
+        "reviews": [
+            {
+                "_id": "134699468",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1488258000000"
+                    }
+                },
+                "listing_id": "12591225",
+                "reviewer_id": "27709592",
+                "reviewer_name": "Elaine",
+                "comments": "Close to the metro (Jardim Oceanico, 1.2km, 15-20 walk). Really nice, 2-level brand new penthouse in a quiet residential area, just one block from the beach.  Various good restaurants nearby and a convenient supermarket on the corner.  Accommodates 12 persons (adults only, apartment is not exactly child friendly because of the 2 levels and the swimming pool on the 2 floor) with more than enough space to relax and feel like in a spa environment.  "
+            }
+        ]
+    },
+    {
+        "_id": "13906039",
+        "listing_url": "https://www.airbnb.com/rooms/13906039",
+        "name": "Quarto 9 Camas ( Suite) LE HOUSE HOSTEL 2",
+        "summary": "Venha Conhecer Nosso Hostel localizado no Leme,  um pequena parte de copacabana, temos 18 quartos disponiveis para alugar, temos quartos privados, compartilhados Suíte, mistos e femininos ( todos com ar) . Desfrute do nosso café da manhã, nossa cozinha e nosso bar, nossas festas e nosso ambiente descontraído. aguardamos vocês. Preço por pessoa Price per person precio por persona Falamos INGLÊS , ESPANHOL E PORTUGUÊS!!!!",
+        "space": "",
+        "description": "Venha Conhecer Nosso Hostel localizado no Leme,  um pequena parte de copacabana, temos 18 quartos disponiveis para alugar, temos quartos privados, compartilhados Suíte, mistos e femininos ( todos com ar) . Desfrute do nosso café da manhã, nossa cozinha e nosso bar, nossas festas e nosso ambiente descontraído. aguardamos vocês. Preço por pessoa Price per person precio por persona Falamos INGLÊS , ESPANHOL E PORTUGUÊS!!!! Preço por pessoa Price per person precio por persona",
+        "neighborhood_overview": "",
+        "notes": "Preço por pessoa Price per person precio por persona",
+        "transit": "",
+        "access": "",
+        "interaction": "",
+        "house_rules": "- Leiam com Atenção por favor..   - Hospedagem de Menores Não é permitida a permanência de menores de 18 anos mesmo que acompanhados dos pais ou responsáveis em quartos compartilhados. Reservas dessa natureza só serão permitidas em quartos individuais onde o menor permaneça hospedado sob a responsabilidade de seus pais ou acompanhantes legais, podendo ser compartilhado esta mesma acomodação com membros da própria família ou conhecidos que viagem juntos em mesmo grupo. Despesas de consumo No checkout serão cobradas todas as despesas que tenham sido contraídas por ocasião da hospedagem tais como: toalhas (não inclusas), bebidas, lavanderia etc, itens esses que não foram incluídos no pagamento da reserva e que tenham sido consumidos e anotados em conta do Hostel Entorpecentes e bebidas alcoólicas Não é permitido o uso de sustâncias alucinógenas ou ainda entorpecentes e outros materiais de consumo proibidos por lei, nos ambientes internos da propriedade. Só é permitido o consumo de bebidas",
+        "property_type": "Bed and breakfast",
+        "room_type": "Shared room",
+        "bed_type": "Real Bed",
+        "minimum_nights": "1",
+        "maximum_nights": "1125",
+        "cancellation_policy": "strict_14_with_grace_period",
+        "last_scraped": {
+            "$date": {
+                "$numberLong": "1549861200000"
+            }
+        },
+        "calendar_last_scraped": {
+            "$date": {
+                "$numberLong": "1549861200000"
+            }
+        },
+        "first_review": {
+            "$date": {
+                "$numberLong": "1471147200000"
+            }
+        },
+        "last_review": {
+            "$date": {
+                "$numberLong": "1509854400000"
+            }
+        },
+        "accommodates": {
+            "$numberInt": "9"
+        },
+        "bedrooms": {
+            "$numberInt": "1"
+        },
+        "beds": {
+            "$numberInt": "9"
+        },
+        "number_of_reviews": {
+            "$numberInt": "5"
+        },
+        "bathrooms": {
+            "$numberDecimal": "1.0"
+        },
+        "amenities": [
+            "TV",
+            "Wifi",
+            "Air conditioning",
+            "Kitchen",
+            "Smoking allowed",
+            "Breakfast",
+            "First aid kit",
+            "Safety card",
+            "Fire extinguisher",
+            "Essentials",
+            "Lock on bedroom door",
+            "translation missing: en.hosting_amenity_49",
+            "translation missing: en.hosting_amenity_50"
+        ],
+        "price": {
+            "$numberDecimal": "48.00"
+        },
+        "extra_people": {
+            "$numberDecimal": "0.00"
+        },
+        "guests_included": {
+            "$numberDecimal": "1"
+        },
+        "images": {
+            "thumbnail_url": "",
+            "medium_url": "",
+            "picture_url": "https://a0.muscache.com/im/pictures/a95ad9ef-e97b-4223-9f62-5865312a7cab.jpg?aki_policy=large",
+            "xl_picture_url": ""
+        },
+        "host": {
+            "host_id": "82172293",
+            "host_url": "https://www.airbnb.com/users/show/82172293",
+            "host_name": "Le House",
+            "host_location": "Rio de Janeiro, State of Rio de Janeiro, Brazil",
+            "host_about": "Venha descobrir as maravilhas do Rio de Janeiro; suas praias, bares, restaurantes e famosos pontos turísticos. Estamos bem localizados, no bairro do Leme, juntinho a famosa praia de Copacabana, perto de tudo que você precisa para aproveitar ao máximo sua visita ao Rio. No Le House você vai encontrar conforto, segurança, ótimos serviços, com equipe bem informada, falando seu idioma. Temos cozinha aberta diariamente e um  completo café da manhã incluso em nossas diárias. Faça uma reserva! Seja a trabalho ou lazer, venha se hospedar com a gente, fazer novos amigos e tornar sua viagem ao Rio, um experiência inesquecível! ",
+            "host_response_time": "within an hour",
+            "host_thumbnail_url": "https://a0.muscache.com/im/pictures/141fdd9f-9b6c-4dc8-8fa8-63b8e841717e.jpg?aki_policy=profile_small",
+            "host_picture_url": "https://a0.muscache.com/im/pictures/141fdd9f-9b6c-4dc8-8fa8-63b8e841717e.jpg?aki_policy=profile_x_medium",
+            "host_neighbourhood": "",
+            "host_response_rate": {
+                "$numberInt": "100"
+            },
+            "host_is_superhost": false,
+            "host_has_profile_pic": true,
+            "host_identity_verified": false,
+            "host_listings_count": {
+                "$numberInt": "5"
+            },
+            "host_total_listings_count": {
+                "$numberInt": "5"
+            },
+            "host_verifications": [
+                "email",
+                "phone",
+                "google",
+                "reviews"
+            ]
+        },
+        "address": {
+            "street": "Rio de Janeiro, Rio de Janeiro, Brazil",
+            "suburb": "Leme",
+            "government_area": "Leme",
+            "market": "Rio De Janeiro",
+            "country": "Brazil",
+            "country_code": "BR",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-43.1703921056122"
+                    },
+                    {
+                        "$numberDouble": "-22.962026886385402"
+                    }
+                ],
+                "is_location_exact": false
+            }
+        },
+        "availability": {
+            "availability_30": {
+                "$numberInt": "20"
+            },
+            "availability_60": {
+                "$numberInt": "50"
+            },
+            "availability_90": {
+                "$numberInt": "80"
+            },
+            "availability_365": {
+                "$numberInt": "352"
+            }
+        },
+        "review_scores": {
+            "review_scores_accuracy": {
+                "$numberInt": "10"
+            },
+            "review_scores_cleanliness": {
+                "$numberInt": "9"
+            },
+            "review_scores_checkin": {
+                "$numberInt": "9"
+            },
+            "review_scores_communication": {
+                "$numberInt": "10"
+            },
+            "review_scores_location": {
+                "$numberInt": "10"
+            },
+            "review_scores_value": {
+                "$numberInt": "10"
+            },
+            "review_scores_rating": {
+                "$numberInt": "96"
+            }
+        },
+        "reviews": [
+            {
+                "_id": "93962146",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1471147200000"
+                    }
+                },
+                "listing_id": "13906039",
+                "reviewer_id": "71359094",
+                "reviewer_name": "Milton",
+                "comments": "The location close to the beach is amazing! the breakfast is really good!"
+            },
+            {
+                "_id": "131220418",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1486789200000"
+                    }
+                },
+                "listing_id": "13906039",
+                "reviewer_id": "35361088",
+                "reviewer_name": "Nicole",
+                "comments": "A conseiller"
+            },
+            {
+                "_id": "197003977",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1506225600000"
+                    }
+                },
+                "listing_id": "13906039",
+                "reviewer_id": "120963344",
+                "reviewer_name": "Jaqueline",
+                "comments": "Fomos muito bem recebidos e com certeza voltaremos mais vezes, a localização é ótima, o ambiente é tranquilo e os funcionários são atenciosos."
+            },
+            {
+                "_id": "203232860",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1507953600000"
+                    }
+                },
+                "listing_id": "13906039",
+                "reviewer_id": "114188522",
+                "reviewer_name": "Lorena",
+                "comments": "Ótimo lugar. Você se sente em casa mesmo! Além de bem proximo à praia, nas proximidades tem todo tipo de comércio. Mas o que eu mais gostei foi a socialidade no hostel.... Tem espaços comuns (sala e cozinha) que proporciona e impulsiona as pessoas a conversarem e se conhecerem. Além disso, atencioso e seu filho são super atenciosos e educados. Voltarei mais vezes com certeza"
+            },
+            {
+                "_id": "209537327",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1509854400000"
+                    }
+                },
+                "listing_id": "13906039",
+                "reviewer_id": "142465659",
+                "reviewer_name": "Anderson",
+                "comments": "Ótimo local. Muito bem localizado. Anfitriões comunicativos. Sem dúvida voltaremos mais vezes."
+            }
+        ]
+    },
+    {
+        "_id": "1410802",
+        "listing_url": "https://www.airbnb.com/rooms/1410802",
+        "name": "White House",
+        "summary": "Single-family home in Barcelona with lots of charm. Living room, fully furnished kitchen, 2 triple bedrooms, 2 double bedrooms, and 2 bathrooms with showers. Accommodation for 10 people. Heating and air conditioning. Garden with barbecue grill and private pool.",
+        "space": "",
+        "description": "Single-family home in Barcelona with lots of charm. Living room, fully furnished kitchen, 2 triple bedrooms, 2 double bedrooms, and 2 bathrooms with showers. Accommodation for 10 people. Heating and air conditioning. Garden with barbecue grill and private pool. One hundred meters from the house, there are buses that can get you to the city center in 15 min. (Phone number hidden by Airbnb)",
+        "neighborhood_overview": "",
+        "notes": "(Phone number hidden by Airbnb)",
+        "transit": "One hundred meters from the house, there are buses that can get you to the city center in 15 min.",
+        "access": "",
+        "interaction": "",
+        "house_rules": "- El horario de entrada en los apartamentos será a partir de las 14.00 h. del día de llegada debiendo quedar libres las habitaciones antes de las 10.00 del dia de salida.  - Tarifa por registro de entrada a deshoras (después de 20:00): 40€ - El cliente se obliga a cuidar el apartamento amueblado, siendo de su cargo los deterioros o pérdidas que se produzcan en la misma. - Menores de 21 años, serán solamente admitidos en compañía de un mayor - Las HORAS DE DESCANSO son de 22,00 a 10,00 entre semana y de 00.00 a 10,00 los festivos, - Los apartamentos están dotados de un sistema de control de ruido, en caso de superar el máximo durante el periodo nocturno, un agente se desplazará hasta el apartamento. Si se vuelve a ocasionar un problema de ruido tras la visita del agente, será bloqueado el depósito - En el momento de la salida del cliente debe entregar la casa en buenas condiciones de limpieza. No se puede dejar la basura en la casa, utensilios de cocina y vajilla debe estar limpia, toal",
+        "property_type": "House",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "3",
+        "maximum_nights": "1100",
+        "cancellation_policy": "strict_14_with_grace_period",
+        "last_scraped": {
+            "$date": {
+                "$numberLong": "1552021200000"
+            }
+        },
+        "calendar_last_scraped": {
+            "$date": {
+                "$numberLong": "1552021200000"
+            }
+        },
+        "first_review": {
+            "$date": {
+                "$numberLong": "1376798400000"
+            }
+        },
+        "last_review": {
+            "$date": {
+                "$numberLong": "1549774800000"
+            }
+        },
+        "accommodates": {
+            "$numberInt": "10"
+        },
+        "bedrooms": {
+            "$numberInt": "4"
+        },
+        "beds": {
+            "$numberInt": "10"
+        },
+        "number_of_reviews": {
+            "$numberInt": "42"
+        },
+        "bathrooms": {
+            "$numberDecimal": "2.0"
+        },
+        "amenities": [
+            "TV",
+            "Internet",
+            "Wifi",
+            "Air conditioning",
+            "Pool",
+            "Kitchen",
+            "Free parking on premises",
+            "Smoking allowed",
+            "Pets allowed",
+            "Free street parking",
+            "Heating",
+            "Family/kid friendly",
+            "Washer",
+            "Essentials",
+            "Hangers",
+            "Hair dryer",
+            "Iron",
+            "Hot water",
+            "Host greets you"
+        ],
+        "price": {
+            "$numberDecimal": "230.00"
+        },
+        "security_deposit": {
+            "$numberDecimal": "300.00"
+        },
+        "cleaning_fee": {
+            "$numberDecimal": "0.00"
+        },
+        "extra_people": {
+            "$numberDecimal": "0.00"
+        },
+        "guests_included": {
+            "$numberDecimal": "1"
+        },
+        "images": {
+            "thumbnail_url": "",
+            "medium_url": "",
+            "picture_url": "https://a0.muscache.com/im/pictures/65c4ea35-c932-4aab-83cd-90433917a87c.jpg?aki_policy=large",
+            "xl_picture_url": ""
+        },
+        "host": {
+            "host_id": "10911051",
+            "host_url": "https://www.airbnb.com/users/show/10911051",
+            "host_name": "Pool Houses Barcelona",
+            "host_location": "Barcelona, Catalonia, Spain",
+            "host_about": "Me encanta la decoración, la moda y estar al día de las tendencias pero lo que más me gusta es conocer gente de diferentes culturas y paises y hacer que su estancia en barcelona sea lo más agradable posible",
+            "host_response_time": "within an hour",
+            "host_thumbnail_url": "https://a0.muscache.com/im/users/10911051/profile_pic/1388687574/original.jpg?aki_policy=profile_small",
+            "host_picture_url": "https://a0.muscache.com/im/users/10911051/profile_pic/1388687574/original.jpg?aki_policy=profile_x_medium",
+            "host_neighbourhood": "Sants-Montjuïc",
+            "host_response_rate": {
+                "$numberInt": "100"
+            },
+            "host_is_superhost": false,
+            "host_has_profile_pic": true,
+            "host_identity_verified": true,
+            "host_listings_count": {
+                "$numberInt": "7"
+            },
+            "host_total_listings_count": {
+                "$numberInt": "7"
+            },
+            "host_verifications": [
+                "email",
+                "phone",
+                "reviews",
+                "manual_offline",
+                "jumio",
+                "government_id"
+            ]
+        },
+        "address": {
+            "street": "Barcelona, Catalonia, Spain",
+            "suburb": "Sants-Montjuïc",
+            "government_area": "la Marina del Prat Vermell",
+            "market": "Barcelona",
+            "country": "Spain",
+            "country_code": "ES",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "2.14759"
+                    },
+                    {
+                        "$numberDouble": "41.35324"
+                    }
+                ],
+                "is_location_exact": false
+            }
+        },
+        "availability": {
+            "availability_30": {
+                "$numberInt": "17"
+            },
+            "availability_60": {
+                "$numberInt": "30"
+            },
+            "availability_90": {
+                "$numberInt": "44"
+            },
+            "availability_365": {
+                "$numberInt": "285"
+            }
+        },
+        "review_scores": {
+            "review_scores_accuracy": {
+                "$numberInt": "9"
+            },
+            "review_scores_cleanliness": {
+                "$numberInt": "9"
+            },
+            "review_scores_checkin": {
+                "$numberInt": "10"
+            },
+            "review_scores_communication": {
+                "$numberInt": "9"
+            },
+            "review_scores_location": {
+                "$numberInt": "7"
+            },
+            "review_scores_value": {
+                "$numberInt": "9"
+            },
+            "review_scores_rating": {
+                "$numberInt": "85"
+            }
+        },
+        "reviews": [
+            {
+                "_id": "6594320",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1376798400000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "7621487",
+                "reviewer_name": "Frédérique",
+                "comments": "Villa fidèle aux photos, bien entretenue avec un jardin  agréable. Propriétaire disponible et a l'écoute. Seul bémol : le quartier industriel alentour qui peut parfois être mal fréquenté. \nEn résumé nous avons passé un très bon séjour dans cette maison idéale pour partir en famille ou entre amis.\n"
+            },
+            {
+                "_id": "10614092",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1393563600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "4899166",
+                "reviewer_name": "Olivier",
+                "comments": "Très bon accueil et maison très agréable conforme aux photos"
+            },
+            {
+                "_id": "13176170",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1400644800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "5083074",
+                "reviewer_name": "Sinead",
+                "comments": "This was a great little house, fresh decor and a really fun outdoor area to lounge around in. We found everything we needed there and very accommodating service.  I would highly recommend this as a place to stay, especially for a group it is perfect. My only drawback is that it is quite removed in location from city centre and we got a taxi each time we left the house. Still I would return to this location regardless as we had such a great time. Thanks!, Sinead."
+            },
+            {
+                "_id": "14334214",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1402977600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "7819096",
+                "reviewer_name": "Nick",
+                "comments": "The White House is a fantastic place. The rooms are a good size and the air con is efficient & relatively quiet. The living area is large and well-equipped and the outside space is also a great size. The pool makes a real difference too as the walls & surrounding buildings mean there isn't much of a breeze. It is in quite an industrial area, but there's a large shop nearby and buses & the town centre a short walk away. \n\nJose Luis and Isa were very helpful and provided a lot of info for us when we arrived - taxi numbers were very useful as there aren't many passing, but you do need to speak Spanish in order to call. They were very flexible with our arrival time and would have been so with our checkout too, if they didn't have another booking. The only downside was some communication issues, which meant we only found out about having to checkout early on the morning it happened - so we were left with 20 minutes for 10 people to pack up.\n\nThat aside, the house is great and the hosts very friendly & helpful - a nice and excellent value house for a group in central Barcelona."
+            },
+            {
+                "_id": "18934844",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1409716800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "10613612",
+                "reviewer_name": "Kathleen",
+                "comments": "We were met by a very friendly host as soon as we arrived at the Villa, which was clean and tidy. The villa is located in a more industrial part of Barcelona but this isn't an issue with a supermarket just around the corner.  Barcelona centre is just a 10 minute taxi journey (approx 12-15 euros) away or there are local buses very close to the villa that can take you into town.  This villa is perfect for large groups, particularly with it's outdoor space that many other Barcelona apartments do not offer.  We would definitely stay again if coming in a large group."
+            },
+            {
+                "_id": "21870499",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1414296000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "3316527",
+                "reviewer_name": "Sara",
+                "comments": "Posto bellissimo...comodo all'aeroporto..alla città...persone disponibili e accoglienti!!!!!!!perfetto....."
+            },
+            {
+                "_id": "27489080",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1425618000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "4899166",
+                "reviewer_name": "Olivier",
+                "comments": "Very Nice place"
+            },
+            {
+                "_id": "30461464",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1429675200000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "3678434",
+                "reviewer_name": "Maria",
+                "comments": "La casa, es preciosa, muy bonitas nos encanto.\r\nmuy grande y para repetir.\r\nMuy recomendable  para grupos grandes.\r\nIsa la anfitriona muy bien. "
+            },
+            {
+                "_id": "32672725",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1432094400000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "8227167",
+                "reviewer_name": "Malin",
+                "comments": "We had a lovely stay at the White house. Isa and Jose was really helpful with both the booking and greeting us at the house. The house is perfect for a group or friends or a bigger family. It's quite far from the city center and it take some time to reach. Especially in rush hour. But there is a big super market close to the house. Perfect for shopping for dinners in the patio."
+            },
+            {
+                "_id": "33494157",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1432872000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "12562499",
+                "reviewer_name": "Katrina",
+                "comments": "We had a great time at the apartment. The garden and pool are great and the apartment was really well presented. The location is quite far out from the center but there are lots of buses from about a 6 minutes away. Highly recommended."
+            },
+            {
+                "_id": "33891506",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1433217600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "9787144",
+                "reviewer_name": "Alexandra",
+                "comments": "The place was fantastic and we had an amazing time! Highly recommended"
+            },
+            {
+                "_id": "34573212",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1433822400000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "8970608",
+                "reviewer_name": "Anthony",
+                "comments": "Hello, welcome was perfect Mr Jose cas There to welcome us And give us all thé information around the Area. Nice week-end with friends And the housse os perfect for group friends. "
+            },
+            {
+                "_id": "35363216",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1434600000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "24229627",
+                "reviewer_name": "Livia",
+                "comments": "We had a very nice holiday and the hostes are very friendly. \nFor us the best part of the house was the garden with the pool there we spent a lot of time together. The house is perfect for large groupes unfortunately there are not much plates and glases and to cook with 2 pans was sometimes a little difficult. Even there are a loot of moskitos. But everything worked and de house was nicely done up. To the center we had with the taxi 10 minutes and with the bus 15 minutes, both is cheap. There is also a big supermarked about 5 minutes away.\nWe  very enjoyed our holidays in the white house and we will come back if we stay again in Barcelona."
+            },
+            {
+                "_id": "37328336",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1436155200000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "4899166",
+                "reviewer_name": "Olivier",
+                "comments": "The host canceled this reservation 230 days before arrival. This is an automated posting."
+            },
+            {
+                "_id": "47955494",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1442894400000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "26619072",
+                "reviewer_name": "David",
+                "comments": "The house was as described and the pictures provided were accurate. The host made us feel most welcome with some water in the fridge and a bottle of red wine upon arrival. This was received especially well as we didn't arrive until midnight! Our flight was delayed considerably, but the host still met us with a friendly face. \r\n\r\nWe has everything we needed, including fast internet and a dishwasher. The pool could have been a little bigger, but we were more than happy with what we got for the price, and again, it was as described. \r\n\r\nThe house itself was in the industrial part of town, but it's only a 5 minute walk to the bus stop and 10 minute bus to Espanya, which is a Metro hub that will basically get you to everywhere in Barcelona. Travelling around on public transport is also inexpensive (1€ per ride if you get a T-10). The house was also about a 5 minute walk for a large supermarket.\r\n\r\nOverall, the house had a nice clean feel, and was nicely decorated. I certainly wouldn't hesitate to book this house again or any of the others the hosts have on offer. They also let us check out late on our last day as no-one else was due to check-in (this saved us carrying our luggage around on the last day)\r\n\r\nOn behalf of the Honey party, thanks!\r\n\r\n"
+            },
+            {
+                "_id": "51429230",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1445313600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "3523260",
+                "reviewer_name": "Leslie",
+                "comments": "La maison est très agréable. Nous étions 8 à l'occuper et c'était, selon notre vécu, le nombre idéal et maximum, pour en profiter au niveau de la vaisselle disponible et de l'espace repas de la cuisine. \r\nNotre hôte a été très à l'écoute de nos demandes et très réactif. Par exemple nous n'arrivions pas à faire fonctionner les climatisations, une personne a été envoyée très rapidement pour nous aider à les faire fonctionner. \r\nEnfin, en ce qui concerne le quartier, en effet, il est éloigné du centre ville et surtout désert. Il faut compter 10 minutes en voiture ou taxi pour rejoindre le centre ville, mais 40 minutes en bus. \r\nNous avons passé un très agréable moment dans cette très jolie maison."
+            },
+            {
+                "_id": "54520110",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1448082000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "6220983",
+                "reviewer_name": "Manuel",
+                "comments": "Buscabanos una casa cerca de la FIRA. La casa de Isabel esta bien equipada. \nEsta aislada de comercio al estar en la zona franca, pero eso es por desconocimiento nuestro"
+            },
+            {
+                "_id": "55827788",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1449378000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "17571611",
+                "reviewer_name": "Katie",
+                "comments": "Super cute little house on a quiet side street near the Barcelona/Hospitalet city line. Easy cab ride into the city, 2 blocks from a supermarket. Loved the layout - it was perfect for the 3 of us staying there for the week. \r\n\r\nJust wish it was warmer outside so we could have taken advantage of the pool!"
+            },
+            {
+                "_id": "58920235",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1451970000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "50728930",
+                "reviewer_name": "Doralina",
+                "comments": "Great house ... excellent location ... would definetely stay there again ..."
+            },
+            {
+                "_id": "61978094",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1455080400000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "58143480",
+                "reviewer_name": "Annick",
+                "comments": "The host canceled this reservation 205 days before arrival. This is an automated posting."
+            },
+            {
+                "_id": "66897724",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1458878400000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "22053452",
+                "reviewer_name": "Hanne",
+                "comments": "Leiligheten var fin og vi ble tatt vel imot av Isas venn da vi kom sent på kvelden. Den var velutstyrt og praktisk men renholdet kunne vært bedre. Det er kort å gå til bussen men du må regne minst en halv time på lokalbusser for å komme inn til sentrum. Ligger i et industriområde så det er ikke mye som skjer i umiddelbar nærhet, spesielt ikke om kvelden. "
+            },
+            {
+                "_id": "67836361",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1459396800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "40692835",
+                "reviewer_name": "Katarzyna",
+                "comments": "Contact with the Host was good. We had some problem with internet but we managed to resolve it by ourselve. The house is located quite far from the centre but about 500meters from it is a bus stop with all the necessary buses."
+            },
+            {
+                "_id": "70744565",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1461124800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "36463074",
+                "reviewer_name": "Benedetta",
+                "comments": "Non fatevi ingannare dalle foto, la casa è piccolissima mal tenuta e senza l'arredo delle foto, la piscina in realtà è uno stagno per le rane, il prato in erba sintetica e la zona è forse la più brutta è pericolosa di Barcellona abitata per lo più da spacciatori e prostitute, tanto che certi taxi si rifiutano di portarti a destinazione per paura, niente metro, solo un autobus che impiega 40 minuti fino al centro. Una delusione "
+            },
+            {
+                "_id": "73959354",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1462939200000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "13610942",
+                "reviewer_name": "Alan",
+                "comments": "Nous avions les deux maisons et le fait qu'on puisse passer de l'une à l'autre est parfait quand on est un groupe nombreux. La maison est comme sur les photos, la décoration soignée, et apaisante. La cuisine très bien équipée, la maison est assez spacieuse, plus que sur les photos selon moi. \r\nIl y a un bar en face qui ouvre très tôt, idéal pour manger un excellent sandwich et prendre une bière. \r\nLa zone est plutôt industrielle mais il y a une station de bus (qui circule toute la nuit à proximité). Sinon, en taxi, c'est environ 12€ pour aller en ville.\r\nLe supermarché est à 5 min à pied, ce qui est très pratique.\r\nGlobalement, ce fut un séjour fantastique, je recommande vivement ce logement !"
+            },
+            {
+                "_id": "81384140",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1466568000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "19881852",
+                "reviewer_name": "Leigh",
+                "comments": "Lovely villa, great size for 8 of us. Perfect place to chill. Only downside is it not being near to a metro but buses are easy. Also bathrooms could do with ventilation, but otherwise it's a lovely place :)"
+            },
+            {
+                "_id": "83388692",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1467432000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "26343044",
+                "reviewer_name": "Rose",
+                "comments": "I really couldn't fault this villa! Everything was as described; it was clean, a huge amount of space for 6 of us, all the amenities worked and beautifully decorated! The location was perfect for us - you have a supermarket within a 5 minute walk and it is the same distance to a bus stop that takes you right into the centre of Barcelona. Alternatively, getting a taxi was super easy (download the Hail O app!) and only cost about 10-12 euros. \nWe would all love to return and can hopefully do so :) \n"
+            },
+            {
+                "_id": "96331944",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1471838400000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "63503758",
+                "reviewer_name": "Mathieu",
+                "comments": "Attention aux photos tapageuses ! Nous étions quatre amis à avoir réservés cette maisonnette pour notre séjour à Barcelone de trois jours. Nous ne sommes restés que une nuit, préferant perdre notre argent,  tellement nous avons été déçus par cette location. Plusieurs raisons à cela: \n- La localisation. Pleine zone industrielle, odeur nauséabonde à notre arrivée, 25 minutes de bus du centre-ville.\n- La piscine. Point central de notre réservation, la photo qui la représente sur l'annonce est clairement un trompe-l'oeil. Nous appellerions ça plutôt un bassin, étant donné qu'il ne doit pas dépasser les 4m carré. De plus, elle etait dans un état de propreté lamentable ( nous en sommes ressortis les pieds tout noirs après 5 minutes à faire trempette).\n_ L'ensemble du logement. Pour le prix affiché, nous nous attendions a trouver une literie de qualité. En guise de cela, de simples matelas à ressorts, et au réveil de multiples boutons de piqures. De plus, l'ensemble est bien moins attrayant en réalité qu'en photo (Finitions bas de gamme, simple vitrage).\n\nEn résumé, nous avons la désagréable sensation de s'être fait avoir en bonne et due forme, tellement le décalage entre l'annonce et la réalité est terrible. Nous ne pouvons que vous conseiller de passer votre chemin, vous trouverez bien mieux au même prix ailleurs à Barcelone, n'en doutez pas !"
+            },
+            {
+                "_id": "102783078",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1474257600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "7777403",
+                "reviewer_name": "Steven",
+                "comments": "We had a great time at the White House and the kids loved the pool ! The house itself is spacious and all amenities were available as listed. The wifi connection is great. On the negative side, the house smelt a bit of paint when we arrived, presumably because paint works were recently done, and we had some trouble with non-functioning light bulbs, but nothing serious. The neighborhood is a bit isolated (with lots of car and metal workshops nearby) but very quiet, and the bus service to the center of town is excellent. There's one supermarket in the immediate vicinity where we could buy all groceries we needed. Overall, we would definitely consider coming back to the White House on our next trip to Barcelona !"
+            },
+            {
+                "_id": "109546297",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1477108800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "1903354",
+                "reviewer_name": "Barbara",
+                "comments": "The house is very nice for a group of friends, its outside the city, for traveling by car it's perfect. The cleaning can be better."
+            },
+            {
+                "_id": "120896239",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1481518800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "80721462",
+                "reviewer_name": "Danielle",
+                "comments": "we all really enjoyed our stay at the white house. we were a group of friends who only see each other a few times a year and had a wonderful time. the house was clean and had such adorable decor which we all loved.\nthe hosts were lovely and had good communication and let us check in early and out late so we weren't left carrying our luggage around.\nhad difficulties with everyone showering in the morning as water would go cold after a few uses, so bare that in mind when staying.\ncouldn't seem to find the hairdryer that was said to be provided, but didn't contact host as it wasn't a huge issue.\nhad a lovely stay, would stay at the white house or other properties by the host again! "
+            },
+            {
+                "_id": "157502403",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1496548800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "24472783",
+                "reviewer_name": "Ronan",
+                "comments": "Perfect little house, clean tidy and private"
+            },
+            {
+                "_id": "178795147",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1501992000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "119310775",
+                "reviewer_name": "Stephanie Nisi",
+                "comments": "It's a pretty small house in an industrial area. It took about 10-15 minutes by bus or taxi to the city central. The supermarket was like 10 minutes away. If you want to go spontaneously out in the neighborhood you won't find anything. The communication could have been better. We flew in to groups to Barcelona. My friends were the first who arrived and asked if they could stay on the last day little longer because their flight back was taking of at evening. They were told it's ok to stay till 5pm if there's no other guest booking. And as he looked he said there wasn't any. So on the last day we had to leave within half an hour because no one told us anything about the other booking."
+            },
+            {
+                "_id": "190419286",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1504497600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "41366857",
+                "reviewer_name": "David",
+                "comments": "Great place, the garden is great to hang out! \nTo get into the city it's faster to order a taxi to your doorstep by using the mytaxi app, because pretty often when you call the given tel. Numbers they don't have one available.\nWould recommend, since it's big, it's secluded and your in the city really fast! The hosts were great, easy to communicate and very efficient!"
+            },
+            {
+                "_id": "249562880",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1522641600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "27153576",
+                "reviewer_name": "Louise",
+                "comments": "Myself & 7 female friends stayed at the White House over the Easter weekend. The house was perfect for us - the large open plan living room / kitchen / dining area was a great place to sit as a group and relax. The bedrooms were light & airy. There were 4 bedrooms: 2 with 3 beds & 2 with 2 beds. Each 2 bed room had one of the 3 bed rooms connected to it through a set of doors. The outdoor space and little plunge pool were great too and gave us another place to chill out and get some sun - we didn’t mind being a bit outside the city centre to be able to get this. The White House had everything we needed, even uk to eu adaptors and a hand blender! Alina, who met us at check in, was really friendly and gave us all the information we needed. Isa responded quickly to any questions I had and even allowed us to check out a little later on our departure day. It was a great experience and I’d recommend it to anyone."
+            },
+            {
+                "_id": "263615398",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1526097600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "69745269",
+                "reviewer_name": "Darek",
+                "comments": "Good size property to comfortably accommodate 6 of us that were travelling. Location is not central but very easy to commute, close to Olympic stadium and Magic Fountains. Big grocery shop nearby well equipped and reasonably priced also close to nice bakery/Coffee Shop. Area seemed safe and quiet. Had good stay. Recommend for larger groups or family with kids"
+            },
+            {
+                "_id": "267241133",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1526875200000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "67961308",
+                "reviewer_name": "Antony",
+                "comments": "Very good. No complaints. Much bigger than previously thought."
+            },
+            {
+                "_id": "279339903",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1529467200000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "9745137",
+                "reviewer_name": "Joshua Felix",
+                "comments": "Spacious and comfortable with an awesome plunge pool. The garden is a sun trap from mornings to early afternoon! \n\nGood for groups. Located slightly away from the beaten track but with a supermarket nearby and taxis always available.\n\nHost was easy to arrange and great communication!\n\nThanks! :)"
+            },
+            {
+                "_id": "321479278",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1536552000000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "62867036",
+                "reviewer_name": "Chris",
+                "comments": "Great little dive pool and backyard area with a few deck chairs and a table.\n\nlocation is not the greatest as it takes a while to get the bus and it will only take you as far as Sants station, no further. we caught a lot of taxis which were about 12 euro to get where we wanted to go \n\ngood for a group of people that are not couples"
+            },
+            {
+                "_id": "327602910",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1537761600000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "24596417",
+                "reviewer_name": "Luke",
+                "comments": "What a great house. Kids loved the pool. Nice quiet area but close enough to town."
+            },
+            {
+                "_id": "345806489",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1541480400000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "110250431",
+                "reviewer_name": "Sierra",
+                "comments": "The host canceled this reservation 16 days before arrival. This is an automated posting."
+            },
+            {
+                "_id": "349370117",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1542430800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "49654453",
+                "reviewer_name": "Germán",
+                "comments": "Es un lugar acogedor, mucho más aprovechable con el buen tiempo (por la piscina)"
+            },
+            {
+                "_id": "410453770",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1549774800000"
+                    }
+                },
+                "listing_id": "1410802",
+                "reviewer_id": "6073707",
+                "reviewer_name": "Angel",
+                "comments": "ES UN ALOJAMIENTO TOTALMENTE RECOMENDABLE"
+            }
+        ]
+    },
+    {
+        "_id": "18614712",
+        "listing_url": "https://www.airbnb.com/rooms/18614712",
+        "name": "5 Room Villa in Oporto Center",
+        "summary": "A marvellous Villa in the city center, situated in a main street of Oporto close to the subway and buses and in a walking distance to old town center. Subway line direct from and to the airport and as well to the main train station. Five large rooms, two of them with private bathrooms. Two other bathrooms, one without bath. Kichen fully equipped.",
+        "space": "A very bright Villa with five double rooms with good vibes. 2 large terraces and a large balcony, ideal to spend a good time outside. You can bring your family or your friends... you will fell at home and as well on holidays. Supermarket, pharmacy, all facilities just outside the door! Perfect to relax after a shopping or a touristic day! Take a chance...enjoy your holidays in this well located Villa!",
+        "description": "A marvellous Villa in the city center, situated in a main street of Oporto close to the subway and buses and in a walking distance to old town center. Subway line direct from and to the airport and as well to the main train station. Five large rooms, two of them with private bathrooms. Two other bathrooms, one without bath. Kichen fully equipped. A very bright Villa with five double rooms with good vibes. 2 large terraces and a large balcony, ideal to spend a good time outside. You can bring your family or your friends... you will fell at home and as well on holidays. Supermarket, pharmacy, all facilities just outside the door! Perfect to relax after a shopping or a touristic day! Take a chance...enjoy your holidays in this well located Villa!",
+        "neighborhood_overview": "",
+        "notes": "",
+        "transit": "",
+        "access": "",
+        "interaction": "",
+        "house_rules": "Devem fazer silêncio após as 23:30 horas.",
+        "property_type": "House",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "2",
+        "maximum_nights": "1125",
+        "cancellation_policy": "strict_14_with_grace_period",
+        "last_scraped": {
+            "$date": {
+                "$numberLong": "1550293200000"
+            }
+        },
+        "calendar_last_scraped": {
+            "$date": {
+                "$numberLong": "1550293200000"
+            }
+        },
+        "first_review": {
+            "$date": {
+                "$numberLong": "1502337600000"
+            }
+        },
+        "last_review": {
+            "$date": {
+                "$numberLong": "1533787200000"
+            }
+        },
+        "accommodates": {
+            "$numberInt": "10"
+        },
+        "bedrooms": {
+            "$numberInt": "5"
+        },
+        "beds": {
+            "$numberInt": "10"
+        },
+        "number_of_reviews": {
+            "$numberInt": "3"
+        },
+        "bathrooms": {
+            "$numberDecimal": "3.5"
+        },
+        "amenities": [
+            "TV",
+            "Cable TV",
+            "Wifi",
+            "Kitchen",
+            "Family/kid friendly",
+            "Washer",
+            "First aid kit",
+            "Fire extinguisher",
+            "Essentials",
+            "Shampoo",
+            "Lock on bedroom door",
+            "Hangers",
+            "Hair dryer",
+            "Iron",
+            "Laptop friendly workspace",
+            "Private entrance",
+            "High chair",
+            "Hot water",
+            "Bed linens"
+        ],
+        "price": {
+            "$numberDecimal": "160.00"
+        },
+        "extra_people": {
+            "$numberDecimal": "0.00"
+        },
+        "guests_included": {
+            "$numberDecimal": "1"
+        },
+        "images": {
+            "thumbnail_url": "",
+            "medium_url": "",
+            "picture_url": "https://a0.muscache.com/im/pictures/8fdee69c-656a-4582-bc86-e9291ae37152.jpg?aki_policy=large",
+            "xl_picture_url": ""
+        },
+        "host": {
+            "host_id": "110204521",
+            "host_url": "https://www.airbnb.com/users/show/110204521",
+            "host_name": "Cedilhas",
+            "host_location": "Porto, Porto District, Portugal",
+            "host_about": "O meu nome é Ana. \r\nViver cada dia e aproveitar a beleza dos pequenos momentos. O mar é a minha liberdade e a montanha o meu abrigo. \r\nMy name is Ana.\r\nTo live each day and take the advantage offered by the beauty of the litle moments. The sea is my freedom and the mountain is my shelter.\r\nGosto de conhecer novas pessoas e novas culturas, ler, ouvir música, escrever, dançar, viajar, caminhada, desporto,...\r\nMi gusta conocer nuevas personas y nuevas culturas, leer, escuchar música, escribir, bailar, viajar, senderismo, deport...\r\nI like to meet new people and new cultures. to reed, listen to music, write, to dance, travel, long walks, sport...\r\nTenho ainda muito para aprender com os outros.\r\n Tengo, todavía mucho que aprender con los demás.\r\nI still have a lot to learn with the others.\r\nI love a good laugh, a good meal, a good wine, good company, good friends. I also like movies, music, cultural exchange, new experiences.\r\n  I enjoy all the good literature, Portuguese and foreign.",
+            "host_response_time": "within an hour",
+            "host_thumbnail_url": "https://a0.muscache.com/im/pictures/5799dcdc-683f-4656-98c6-11783b7bf30e.jpg?aki_policy=profile_small",
+            "host_picture_url": "https://a0.muscache.com/im/pictures/5799dcdc-683f-4656-98c6-11783b7bf30e.jpg?aki_policy=profile_x_medium",
+            "host_neighbourhood": "",
+            "host_response_rate": {
+                "$numberInt": "100"
+            },
+            "host_is_superhost": false,
+            "host_has_profile_pic": true,
+            "host_identity_verified": false,
+            "host_listings_count": {
+                "$numberInt": "9"
+            },
+            "host_total_listings_count": {
+                "$numberInt": "9"
+            },
+            "host_verifications": [
+                "email",
+                "phone",
+                "reviews"
+            ]
+        },
+        "address": {
+            "street": "Porto, Porto, Portugal",
+            "suburb": "",
+            "government_area": "Bonfim",
+            "market": "Porto",
+            "country": "Portugal",
+            "country_code": "PT",
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    {
+                        "$numberDouble": "-8.59597"
+                    },
+                    {
+                        "$numberDouble": "41.15624"
+                    }
+                ],
+                "is_location_exact": true
+            }
+        },
+        "availability": {
+            "availability_30": {
+                "$numberInt": "0"
+            },
+            "availability_60": {
+                "$numberInt": "0"
+            },
+            "availability_90": {
+                "$numberInt": "0"
+            },
+            "availability_365": {
+                "$numberInt": "132"
+            }
+        },
+        "review_scores": {
+            "review_scores_accuracy": {
+                "$numberInt": "9"
+            },
+            "review_scores_cleanliness": {
+                "$numberInt": "9"
+            },
+            "review_scores_checkin": {
+                "$numberInt": "10"
+            },
+            "review_scores_communication": {
+                "$numberInt": "10"
+            },
+            "review_scores_location": {
+                "$numberInt": "9"
+            },
+            "review_scores_value": {
+                "$numberInt": "9"
+            },
+            "review_scores_rating": {
+                "$numberInt": "93"
+            }
+        },
+        "reviews": [
+            {
+                "_id": "180505367",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1502337600000"
+                    }
+                },
+                "listing_id": "18614712",
+                "reviewer_id": "85829376",
+                "reviewer_name": "Eva",
+                "comments": "Alquilamos el apartamento 2 familias (7 personas). Es una casa de dos plantas bien situada y cómoda. Disponíamos de 5 habitaciones y 3 baños por  lo que nos hacía muy fácil la estancia. Wifi genial. Está situada en un barrio popular rodeada de supermercados, fruterias, carnicerías e infinidad de restaurantes. Para los futboleros a solo 25 minutos andando del estadio del Oporto. A tan solo 3 paradas de metro del centro de la ciudad.Ana muy amable con nosotros y preocupada de que todo estuviera correcto. Por poner algún pero, que es una casa con la cocina un poco antigua, aunque con lavadora y lavavajillas estupendos, y que no había tele."
+            },
+            {
+                "_id": "185753909",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1503374400000"
+                    }
+                },
+                "listing_id": "18614712",
+                "reviewer_id": "124050135",
+                "reviewer_name": "Aline",
+                "comments": "TODA A FAMÍLIA GOSTOU MUITO DA CASA, POIS ALÉM DE LIMPA E ESPAÇOSA, ESTÁ BEM LOCALIZADA, PRÓXIMA AO CENTRO DE PORTO.\nALÉM DO SUPORTE E CONTATOS QUE MANTÍNHAMOS COM A ANFITRIÃ, ANA, DESDE QUE FIZEMOS A RESERVA, A MESMA AINDA NOS RECEBEU COM ALGUNS MIMOS. VALEU MUITO À PENA!!!!"
+            },
+            {
+                "_id": "304229579",
+                "date": {
+                    "$date": {
+                        "$numberLong": "1533787200000"
+                    }
+                },
+                "listing_id": "18614712",
+                "reviewer_id": "153071466",
+                "reviewer_name": "Fernando",
+                "comments": "Parfait local très propre dans le centre ville pas la peine d’utiliser la voiture la propriétaire très très aimable"
+            }
+        ]
+    }
+]
